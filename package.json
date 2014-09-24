@@ -15,7 +15,8 @@
     "react",
     "checkbox",
     "boolean",
-    "valueLink"
+    "valueLink",
+    "react-component"
   ],
   "author": "Ziad Saab <ziad.saab@gmail.com>",
   "license": "MIT",
