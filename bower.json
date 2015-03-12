@@ -1,6 +1,6 @@
 {
   "name": "react-boolean-checkbox",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "author": "Ziad Saab <ziad.saab@gmail.com>",
   "description": "React boolean checkbox with valueLink",
   "main": "react-boolean-checkbox.jsx",
@@ -18,7 +18,7 @@
     "valueLink"
   ],
   "dependencies": {
-    "react": "~0.11.1"
+    "react": "~0.12.0"
   },
   "license": "MIT"
 }
