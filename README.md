@@ -1,3 +1,5 @@
+# NOTE: This package is useless because React already provides [`checkedLink`](https://facebook.github.io/react/docs/two-way-binding-helpers.html)
+
 # [React](http://facebook.github.io/react/)-boolean-checkbox
 React checkbox for `true`/`false` with `valueLink`.
 
